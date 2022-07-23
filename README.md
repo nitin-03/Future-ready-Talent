@@ -1,7 +1,9 @@
 # Future-ready-Talent
 Future ready Talent final project using azure services
 
-# Description: This is a webpage developed using HTML & CSS as part of FUTURE READY TALENT Internship Project & implementing Microsoft Azure Services like the Static webapp to deploy the website and QnA makes to answers the queries of the consumers. Building a website for a Agriculture purpose offers a wide range of essential Agriculture services. Since most individuals lack the knowledge and expertise to work out what procedures for Agriculture. Implementing an interactive chatbot that answers customers basic queries. Therefore Microsoft Azure QnA maker service is a helpful tool in processing customer's questions and giving them necessary feedback. The website is hosted using a serverless service called Microsoft Azure static web apps.
+# Description: 
+
+This is a webpage developed using HTML & CSS as part of FUTURE READY TALENT Internship Project & implementing Microsoft Azure Services like the Static webapp to deploy the website and QnA makes to answers the queries of the consumers. Building a website for a Agriculture purpose offers a wide range of essential Agriculture services. Since most individuals lack the knowledge and expertise to work out what procedures for Agriculture. Implementing an interactive chatbot that answers customers basic queries. Therefore Microsoft Azure QnA maker service is a helpful tool in processing customer's questions and giving them necessary feedback. The website is hosted using a serverless service called Microsoft Azure static web apps.
 
 # Azure Link:
 https://icy-tree-0a4d6a710.1.azurestaticapps.net
