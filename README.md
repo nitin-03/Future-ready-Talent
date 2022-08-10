@@ -1,6 +1,7 @@
 # Future-ready-Talent
 Future ready Talent final project using azure services
 
+
 # Azure Link:
 https://proud-island-01d3e9410.1.azurestaticapps.net
 
